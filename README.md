@@ -52,7 +52,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 ## Get to Know the Author
 **Ruan**
-is a 3D Generalist and Visual Effects (VFX) Artist specializing in Motion Graphics, Compositing, 3D Tracking, and 3D Simulations. He currently works as a VFX artist and compositor in the advertising industry and also teaches multiple 3D and VFX-related classes online. He also created the YouTube channel, TunnelvizionTV where he shares tutorials on multiple creative topic
+is a 3D Generalist and Visual Effects (VFX) Artist specializing in Motion Graphics, Compositing, 3D Tracking, and 3D Simulations. He currently works as a VFX artist and compositor in the advertising industry and also teaches multiple 3D and VFX-related classes online. He also created the YouTube channel, TunnelvizionTV where he shares tutorials on multiple creative topic.
 
 
 
