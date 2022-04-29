@@ -36,6 +36,7 @@ With the following software and hardware list you can run all code files present
 | Chapter  | Software required                   | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
 | 1-14     | Blender 2.93.x                      | Windows, Mac OS X, and Linux (Any) |
+| 1-14     | Meshroom 2021                       | Windows, and Linux                 |
 
 All the projects in this book have been created and built on Blender 2.93.x. The projects should work perfectly fine with Blender 3.x versions too. There may obviously be slight changes going forward as they develop Blender 3, but most of the changes they usually do are minor and should not break any workflows. However, the Geometry nodes chapters will work strictly on versions 2.93.x, since these nodes are updated with every version change. Version 2.93 has Long Term Support (LTS) till 2023 and you can download it from here: https://www.blender.org/download/lts/2-93/
 
