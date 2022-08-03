@@ -44,7 +44,7 @@ All the projects in this book have been created and built on Blender 2.93.x. The
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packt-cdn.com/downloads/9781803233567_ColorImages.pdf).
 
-You can directly download the Blender projects and assets from https://packt.link/ipwcI
+You can directly download the Blender projects and assets from [here](https://packt.link/ipwcI)
 
 ### Related products <Other books you may enjoy>
 * Blender 3D By Example - Second Edition [[Packt]](https://subscription.packtpub.com/product/game_development/9781789612561?utm_source=github&utm_medium=repository&utm_campaign=9781789612561) [[Amazon]](https://www.amazon.com/dp/178961256X)
