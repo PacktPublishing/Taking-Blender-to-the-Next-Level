@@ -58,3 +58,7 @@ is a 3D Generalist and Visual Effects (VFX) Artist specializing in Motion Graphi
 
 
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781803233567">https://packt.link/free-ebook/9781803233567 </a> </p>
